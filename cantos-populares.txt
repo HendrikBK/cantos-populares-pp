@@ -16721,7 +16721,7 @@ de Nicodemus, aonde cita, Gori, Thesaurus veter. dypt. t. I. figuras
 INDEX
 
 
-/P
+/#
                                 Pag.
 
     <i>Dedicatoria</i>,          V
@@ -16974,7 +16974,9 @@ INDEX
 
     57 Dom Duardos--II      333
 
-    58 Romance que se fez de algumas magoas e perdas que causou o tremor de Villa Franca do Campo em 1522      (Lição de Gaspar Fructuoso)      335
+    58 Romance que se fez de algumas magoas e perdas que
+      causou o tremor de Villa Franca do Campo em 1522
+     (Lição de Gaspar Fructuoso)      335
 
     59 Romance de Dona Ignez de Castro      345
 
@@ -17030,4 +17032,4 @@ INDEX
 
     82 Xacara do Galante      385
       Notas e Paradigmas do Romanceiro      397
-P/
+#/
