@@ -436,8 +436,7 @@ P/
 
 
 CANCIONEIRO
-
-DAS ILHAS [Blank Page]
+DAS ILHAS
 
 
 
@@ -2955,9 +2954,7 @@ MORAES E GRACIOSAS
     Que as paredes tem ouvidos;
     Os segredos mais secretos
     Esses são os mais sabidos.
-P/
 
-/P
     Eu heide subir ao alto,
     Ao alto heide assubir;
     Quem ao mais alto se sobe
@@ -2992,9 +2989,7 @@ P/
     Para aliviar sua pena;
     Quem o seu peito descobre
     Mesmo a si se condemna.
-P/
 
-/P
     A maçã na macieira
     É como a mãe com a filha,
     Que não é senhora d'ella
@@ -3029,9 +3024,7 @@ P/
     Grandezas a offerecer;
     É engeitado do bem
     Onde veiu a pertender.
-P/
 
-/P
     Diga-me, oh senhor piloto,
     Que do mar sabe a lição,
     Diga-me do norte ao sul
@@ -3066,9 +3059,7 @@ P/
     Co' a vida de cada qual?
     Que lhe importa a cada um
     Se me eu trato bem ou mal?
-    /P
 
-    /P
     Amor fere quando fere
     Sem distinguir qualidade;
     Fere o pobre, fere o rico,
@@ -3103,9 +3094,7 @@ P/
     Já estou arrependido;
     O dinheiro já está gasto,
     O meu corpo está vendido.
-P/
 
-/P
     Estudante larga o livro,
     Anda, vamos ao jardim;
     Mais vale uma hora de gosto,
@@ -3140,9 +3129,7 @@ P/
     Minha mãesinha do céo,
     Que me trouxe nove mezes
     Debaixo do seu mantéo.
-P/
 
-/P
     Dei um nó que eu nunca déra,
     Nunca o eu chegasse a dar;
     Dei-o com a mão direita,
@@ -3244,9 +3231,7 @@ LOCAES
     Assim diz quem de lá vem;
     Terra que dá tanta rosa,
     Só não dá cravos tambem.
-P/
 
-/P
     A Terceira veste seda,
     S. Miguel o chamalote,
     O Pico pano da terra,
@@ -3281,9 +3266,7 @@ P/
     Heide eu levar este verão,
     Pelos atalhos das vinhas
     C'o meu amor pela mão.
-P/
 
-/P
     Oh minha Ribeira secca,
     Minha ribeira de flores,
     Para lá de ti, Ribeira,
@@ -3318,9 +3301,7 @@ P/
     No Fayal me dão amores;
     Fica-te embora S. Jorge,
     Meu ramilhete de flores.
-P/
 
-/P
     Rapariga não te fies
     Em palavras de homem rico,
     São como o calhau miudo
@@ -3384,9 +3365,7 @@ ABC DE AMORES
     Bem constante tenho sido;
     Adorada prenda minha,
     Disvello de meu sentido.
-P/
 
-/P
     O D é para dizer
     A quem tenho na affeição;
     Só a ti, caro amor,
@@ -3421,9 +3400,7 @@ P/
     Vós sempre me alembraes;
     O dia que vos não vejo
     Não faço senão dar ais.
-P/
 
-/P
     O M é pelo amor
     Que sempre te tive e tenho;
     És a prenda a quem adoro,
@@ -3458,9 +3435,7 @@ P/
     Que eu tenho por ti meu bem;
     Eu passo crueis tormentos,
     Vivo só sem mais ninguem.
-P/
 
-/P
     O T é a tyrannia,
     Que tyrannia te fiz?
     O meu gosto é amar-te,
@@ -3495,9 +3470,7 @@ VARIANTE:
     Em campo verde de flores,
     Dizei-me lá por cantigas
     O ABC dos amores.
-P/
 
-/P
     «O <i>ABC</i> dos amores
     Vós cuidaes que o não sei?
     Dizei-me a primeira letra
@@ -3532,9 +3505,7 @@ P/
     Meu amor com que te amei!
     Ingrato porque não pões
     Em mim essa tua lei?
-P/
 
-/P
     --<i>D</i>--defronte do teu peito
     Uma flor eu vi nascer;
     Se não souberes amar
@@ -3569,9 +3540,7 @@ P/
     Heide sel-o até ao fim;
     Dei-te o coração por prenda,
     Que mais queres tu de mim?
-P/
 
-/P
     «O <i>G</i> é a gentileza,
     Não vi cara mais formosa;
     Pelo branco és açucena,
@@ -3606,9 +3575,7 @@ P/
     Em que te tenho prendido,
     És a flor de mais empenho
     Que trago no meu sentido.
-P/
 
-/P
     «O <i>L</i> é pela lei
     Que o meu coração te tem;
     Desde que eu logo te vi
@@ -3643,9 +3610,7 @@ P/
     Desprezas o meu amor?
     Já de mim tem compaixão
     Se o não fazes com dor.
-P/
 
-/P
     --O <i>P</i> é pelo poder
     Que tendes nas vossas mãos;
     Tirae-me d'estas cadeias,
@@ -3680,9 +3645,7 @@ P/
     Não sendo bem soletrado;
     Bem sabeis, meu amorsinho,
     Que no meu peito tens 'stado.
-P/
 
-/P
     --O <i>T</i> é pelas thesouras
     Menina, com que talhaes;
     De ouro são as agulhas,
@@ -3717,9 +3680,7 @@ P/
     D'este galante <i>ABC</i>;
     Fino pedindo a Deos
     Saude e vida nos dê.»
-P/
 
-/P
     Ás letras do <i>ABC</i>
     Ainda aqui faltam quatro;
     Mas aqui fica o logar
@@ -3751,9 +3712,7 @@ RETRATO DE UMA BELLEZA
     Onde o sol se vae mirar,
     Onde vae tomar altura
     Dos raios que hade botar.
-P/
 
-/P
     Os vossos olhos, menina,
     São pharoes de mar e guerra,
     Quando vão para o mar largo
@@ -3788,9 +3747,7 @@ P/
     Para o amor abraçar,
     Se até aqui muito gostei,
     Muito mais heide gostar.
-P/
 
-/P
     Os vossos hombros, menina,
     Ambos de dous são iguaes,
     Não sois bonita, nem feia,
@@ -3825,9 +3782,7 @@ VARIANTE:
     O brio da minha dama,
     Nasceram perolas finas,
     Angélicas côr de cana.
-P/
 
-/P
     Os vossos cabellos, sécia,
     É que vos dão toda a graça,
     Parecem meadas de ouro
@@ -3862,9 +3817,7 @@ P/
     Que nem pedrinhas de sal,
     Tendes a fala ciosa
     Para mais graça lhe dar.
-P/
 
-/P
     A garganta tira a vida,
     A vida por ella déra,
     Tivera duas mil vidas
@@ -4354,9 +4307,7 @@ A TRICANA
     Deixaste-me só;
     Sósinha nos montes,
     Sem pena, sem dó!
-P/
 
-/P
     Não penses que eu trago
     Punhal de assassino;
     Sou homem, respeito
@@ -4390,9 +4341,7 @@ FADO DO MARUJO
     Botem-me a sua benção,
     Que eu vou para aquelle mar,
     Para aquella embarcação.
-P/
 
-/P
     Adeos casa de meu pae,
     As costas te vou virando,
     Chega-te cá náu de guerra,
@@ -4427,9 +4376,7 @@ P/
     Apanhando com corrêas,
     Do que ser pobre marujo,
     Andar por terras alhêas.
-P/
 
-/P
     Ninguem deixe pae e mãe
     P'ra subir maior altura,
     Que a bordo d'este navio
@@ -4496,9 +4443,7 @@ I
     Sem tua livre vontade;
     De quem te deveras ama
     Deves de haver piedade.
-P/
 
-/P
     «Que piedade heide eu ter
     De quem me procura a morte?
     Siga o senhor seu caminho,
@@ -4533,9 +4478,7 @@ P/
     Aqui me tem, meu querido;
     Se me tratar por mulher;
     Tratal-o-hei por marido.
-P/
 
-/P
     --Plantei os cravos goivos
     Dentro de um copo de vidro;
     Não quero que o mundo saiba
@@ -4570,9 +4513,7 @@ II
     Depois n'uma prima dêra,
     No alicerce do amor
     Vós sois a primeira pedra.
-P/
 
-/P
     --Vós sois a primeira pedra
     No alicerce do amor;
     Por amor de vós, menina,
@@ -4607,9 +4548,7 @@ P/
     Dizei-me aonde moraes?
     Intendo para commigo
     Falares-me aí por demais.
-P/
 
-/P
     --Não te falo por demais,
     Oh minha angelica flor;
     Dormindo sonho comtigo,
@@ -4674,9 +4613,7 @@ III
     O nome que você tem?
     Pertendia eu saber
     Como se chama o meu bem.
-P/
 
-/P
     --O meu nome é Jacintho,
     Que em breve quer dizer:
     Dôr, pesar e sentimento,
@@ -4711,9 +4648,7 @@ P/
     Da nossa dôce união;
     Já eu sinto no meu peito
     Abrazar-se o coração.
-P/
 
-/P
     «O tempo já se apressa
     Em dar luz a outra gente,
     Vamos vêr o nosso gado
@@ -4748,9 +4683,7 @@ IV
     Sempre te falei verdade;
     Que eu espero de gosar
     Essa tua mocidade.
-P/
 
-/P
     --Esta minha mocidade
     Já para ti se acabou;
     Quando eu de lá saí
@@ -4785,9 +4718,7 @@ P/
     Que eu nunca te heide deixar;
     Tu hasde ser minha amiga,
     E com outra heide casar.
-P/
 
-/P
     «Eu heide ser tua amiga,
     É cousa que póde ser;
     Dando-me tu o vestir,
@@ -4857,9 +4788,7 @@ V
     Os que vão ao hospital;
     Eu como louca por vós
     Vos quero contar meu mal.
-P/
 
-/P
     Vos quero contar meu mal,
     Senhor, que me succedeu,
     Que eu perdi um lenço branco
@@ -4894,9 +4823,7 @@ VI
     Não te andava adorando;
     Pela graça dos teus olhos,
     Minha alma se anda matando.
-P/
 
-/P
     Oh rosa, tomae alento
     D'essa morte que trazeis,
     Bem sei que me chamaes cravo,
@@ -4931,9 +4858,7 @@ P/
     Para teres o teu quinhão,
     Só pela vossa brancura
     Vos iria ganhar pão.
-P/
 
-/P
     Vos iria ganhar pão
     Antes que fosse a Lisboa,
     P'ra gosar a presumpção
@@ -4965,9 +4890,7 @@ A CONVERSADA DA FONTE
     Nossa Senhora da Guia!
     Perguntarei ao mancebo
     Se vem por alguma guia.
-P/
 
-/P
     --A guia por onde eu cá venho,
     Eu a digo na verdade,
     Venho por passar meu tempo,
@@ -5002,9 +4925,7 @@ P/
     Enxertado na raiz,
     Do que na mão de uma nescia,
     De uma secia que tal diz.
-P/
 
-/P
     «Antes eu quero ser rosa,
     Fechadinha n'um botão,
     Do que na mão de um vadio,
@@ -5069,9 +4990,7 @@ VIII
     Meu pae não será contente,
     Deitaria-me na rua,
     Despresada para sempre.
-P/
 
-/P
     --Senhora, não arreceie,
     Não tem de que arreceiar;
     Que as famas que lh'eu pozer
@@ -5106,9 +5025,7 @@ P/
     Oh meu bem, oh pau de cana;
     Quem da arvor' tira o fructo
     Torne a traz, leve-lhe a rama.
-P/
 
-/P
     Pelo amor de Deos te peço,
     Pelo leite que mamastes,
     Que não digas a ninguem
@@ -5140,9 +5057,7 @@ CANTAR Á DESGARRADA
     Que entra tão marralheiro?
     Abri-me lá essa porta,
     Deitae-m'o para o chiqueiro.
-P/
 
-/P
     --Mandas-me para o chiqueiro,
     Com muito justas rasões;
     Eu serei o pae dos bácoros,
@@ -5189,9 +5104,7 @@ MEZES DO ANNO
     Sou o mez das flores;
     Cantam as aves,
     Desperto os amores.
-P/
 
-/P
     Eu sou o Maio
     Da pouca ventura,
     Que não guardo grão
@@ -5226,9 +5139,7 @@ P/
     O mez dos sanctinhos,
     Em que os lavradores
     Provam os seus vinhos.
-P/
 
-/P
     Eu sou o Dezembro,
     Engordo o meu porco,
     E como torresmos,
@@ -5260,9 +5171,7 @@ ANNO BOM
     Cobrem o rosto c'um véo;
     Mandaram-me abrir a porta,
     Deos lh'as abra assim no céo.
-P/
 
-/P
     Botei um arco de flores
     Por cima do Limoeiro,
     Deos lhe dê annos de vida
@@ -5299,9 +5208,7 @@ A CIRCUMCISÃO
     É de grandes merecimentos,
     Por ser o dia primeiro
     Em que Deos passou tormentos.
-P/
 
-/P
     Suas cernes lhe cortaram,
     O seu sangue a derramar;
     Tudo isto passou Christo
@@ -5421,9 +5328,7 @@ P/
     Eu no vosso adro estou;
     Botae-me a vossa benção,
     Que sem ella me não vou.
-P/
 
-/P
     Abri as portas, Sam Pedro,
     A esta tão nobre gente,
     Que vem vêr o bom Jesus
@@ -5465,9 +5370,7 @@ P/
     Todo bem alumiado;
     Todo cercado dos anjos,
     Todo dos anjos cercado.
-P/
 
-/P
     Oh meu nobre imperador
     Olhae para vós, vereis,
     Vereis toda a bizarria
@@ -5503,9 +5406,7 @@ P/
     Eu á vossa casa heide ir;
     Ao pé do vosso altar
     Um somno heide dormir.
-P/
 
-/P
     Divino Espirito Santo,
     Senhor de sceptro e corôa;
     Vós na terra sois pombinha,
@@ -6086,9 +5987,7 @@ SOBRE O DIA DE JUIZO
     Ia por satisfação,
     Que nunca conheci dôr
     Dentro no meu coração.
-P/
 
-/P
     Pois agora a penitencia,
     Que me deu o confessor,
     Não resei com devoção,
@@ -6125,9 +6024,7 @@ A B C DO SENHOR AMOROSO
     Vos peço, senhor, perdão;
     Por vossas divinas chagas,
     Por vossa morte e paixão.
-P/
 
-/P
     <i>D</i>ae-me, senhor, liberdade,
     Com a grande contricção,
     De minha propria vontade
@@ -6162,9 +6059,7 @@ P/
     Em que vós, Senhor, nascestes,
     Immaculada Senhora,
     Que em teu ventre o concebetes.
-P/
 
-/P
     <i>M</i>eu Deos de misericordia,
     Vós comvosso Padre eterno,
     Nos haveis de dar a gloria,
@@ -6199,9 +6094,7 @@ P/
     Fostes um manso cordeiro,
     Tambem vos fizeram filho
     De José o carpinteiro.
-P/
 
-/P
     <i>T</i>ambem diziam senhores
     Que eras fino feiticeiro,
     Vossos discipulos traidores
@@ -6238,9 +6131,7 @@ A B C DE NOSSA SENHORA
     Sois qual rosa no jardim;
     Sondes rainha dos Anjos,
     De Thronos e Serafins.
-P/
 
-/P
     <i>C</i>ativo estou de vós,
     Maria, minha flor,
     Podera sim assubir
@@ -6275,9 +6166,7 @@ P/
     Eu n'ella quero entrar,
     Fazei, Senhora, que eu possa
     Essa dita alcançar.
-P/
 
-/P
     <i>L</i>eal foi o meu amor,
     Com que sempre vos amei,
     É sempre o vosso desejo,
@@ -6312,9 +6201,7 @@ P/
     Amor do meu coração,
     Tendes acção de belleza
     Por lira da discripção.
-P/
 
-/P
     <i>T</i>udo tendes bem perfeito,
     Nada em vós se acha falta;
     Quem com devoção vos ama,
@@ -6419,9 +6306,7 @@ AS QUINZE PETIÇÕES
     Denegridos de um madeiro,
     Por amor dos meus peccados
     Meu bom Jesus verdadeiro.
-P/
 
-/P
     Vossos sagrados braços
     Estendidos n'uma cruz,
     Por amor de meus peccados
@@ -6456,9 +6341,7 @@ P/
     Vi estar uma charola,
     Onde n'ella ajoelhou
     A virgem nossa Senhora.
-P/
 
-/P
     Indo mais para diante
     Bem vi estar um andor,
     Aonde n'elle ajoelhou
@@ -6528,9 +6411,7 @@ OS MANDAMENTOS DA LEI DE DEOS
     N'isso serás avisado,
     Teu corpo defenderá
     A tua alma do peccado.
-P/
 
-/P
     O sexto não communicarás,
     Livrarás de tal torpesa;
     Casto, limpo tu serás
@@ -7748,9 +7629,7 @@ I--VERSÃO DA ILHA DE S. JORGE (RIBEIRA DO NABO)
     Fazer apertado gibão;
     Montou logo para a guerra
     A brigar como varão.
-P/
 
-/P
     --«Minha mãe eu trago magoas
     Dentro do meu coração;
     Que os olhos de Dom Varão
@@ -8126,9 +8005,7 @@ II--VARIANTE DA ILHA DE S. JORGE (RIBEIRA DE AREIAS)
     A boa ida vá comtigo!
     Pelo bafo que me cheira
     É rosal enflorecido.
-P/
 
-/P
     Ao cabo de sete annos
     Rosinha d'ali partia,
     N'uma lanchinha de prata
@@ -8198,9 +8075,7 @@ I--VERSÃO DA ILHA DE S. JORGE
     Vou eu em vosso logar;
     Em elle vindo da caça,
     Na caça lhe irei pegar.
-P/
 
-/P
     Quando ella tal ouviu
     Tratou sim de caminhar;
     Dona Helena caminhando
@@ -8379,9 +8254,7 @@ I--VERSÃO DA ILHA DE S. JORGE (VELLAS).
     Que bem custou a criar;
     Mandae-o p'ra terras longes
     Fóra do céo natural.»
-P/
 
-/P
     Andando por terras dentro,
     Começou de perguntar:
 
@@ -9605,9 +9478,7 @@ Romances de Gerenaldo
     Que vem ao vosso serviço.
     «Levanta os cortinados,
     Vem-te aqui deitar commigo.
-P/
 
-/P
     De beijinhos e abraços
     Hasde ser mui bem servido!
     Nada mais t'eu não prometto
@@ -9711,9 +9582,7 @@ Girinaldo
     Quem vem ao vosso serviço.
     «Aferra-te a essas cortinas,
     Vem-te cá deitar commigo.
-P/
 
-/P
     Ainda bem não eram onze
     Já o rei andava erguido;
     Andava de sala em sala,
@@ -10894,9 +10763,7 @@ Romance de Dona Maria
 
 /P
     VERSÃO DA ILHA DE S. JORGE
-P/
 
-/P
     Eu era a filha de um rei,
     Chamada Dona Maria;
     Amava um capitão
@@ -14388,9 +14255,7 @@ canção normanda:»
     L'on doibt conard maudire.
     --Femme je ne croiray d'un mois
     Tant soit belle ou habille.
-P/
 
-/P
     (<i>Viaux de Vires</i>, d'Olivier Basselin, p. 225).
 P/
 
@@ -14497,9 +14362,7 @@ consuetadinario foraleiro. Eis os tercetos de Dante:
     Nel gran fior discendeva, che s'adorna
     Di tante foglie, e quindi risaliva
     Là, dove il suo amor sempre soggiorna.
-P/
 
-/P
     <i>Paradiso</i>, canto XXXI.
 P/
 
@@ -14578,9 +14441,7 @@ algumas strophes apresentam a situação da <i>Noiva desertora</i>:
     Aux cartes ni aux dés;
     Et si j'aurai la belle
     Ce soir à mon coucher.
-P/
 
-/P
     Pag. 20, n.º III.
 P/
 
@@ -14698,9 +14559,7 @@ traz o seguinte romance:
     Elle lui chercha querelle et tua son mignon,
     On la prend, on l'emène jusque à la prison,
     Elle se declare fille pour avoir son pardon.
-P/
 
-/P
     N.º XXV, p. 76
 P/
 
@@ -14741,9 +14600,7 @@ LA FEMME ABANDONÉE
     A minuit dans sa chambre,
     Elle fait buillir la marmite
     Sans feu et sans rente.
-P/
 
-/P
     N.º VII, p. 31.
 P/
 
@@ -15324,9 +15181,7 @@ portugueza:
     Sou mary l'a quitée
     Á l'âge de vint ans,
     Pour aller guerroyer.
-P/
 
-/P
     <sc>Pag. 8.</sc>
 P/
 
@@ -15352,9 +15207,7 @@ tambem se acha uma versão d'este mesmo romance:
     Qualche segno n'avreste dá?
     Tira fuora la man bianca:
     --Quest'é l'anelo che vi ho sposa.
-P/
 
-/P
     <sc>Pag. 59, N. 81.</sc>
 P/
 
@@ -15612,9 +15465,7 @@ O CORSARIO
     Sej già lontan da vostra cà.
     «Cosa dira la mama mia
     Che n'a sto tant a' ritorne'?
-P/
 
-/P
     --Pense' pa pi a la vostra mama,
     Oh pense', bela, al marinar.
 
@@ -15719,9 +15570,7 @@ LE BEAU MARINIER
 
     Quand la belle fut pour se coucher,
     Son lacet s'est noué.
-P/
 
-/P
     --Pretez-moi votre dague,
     Mon lacet s'est noué.»
     Et quand elle eut la dague,
@@ -15786,9 +15635,7 @@ P/
     Não quero a casa tornar,
     Sem que vá primeiro a Roma
     Ao Papa me confessar.
-P/
 
-/P
     <sc>CASELLI, OP. CIT. p. 191.</sc>
 P/
 
@@ -15955,9 +15802,7 @@ manuscripto do seculo XII, começa:
 
 /P
     En mai ki fel flurir les prez, etc.
-P/
 
-/P
     Apud Thomas Wright e Hallmiell,
     <i>Reliquiæ antiquæ</i>, t. I, p. 200.
 P/
@@ -15967,9 +15812,7 @@ Gil Vicente em outro logar começa uma enselada d'esta forma:
 /P
     En el mes era de Maio
     Véspera de Navidad,
-P/
 
-/P
     <i>Obr.</i> t. III, p 323.
 P/
 
@@ -15980,9 +15823,7 @@ E nas tragicomedias:
     Ocho dias por andar,
     El Infante Don Felipe
     Nació en Evora ciudad.
-P/
 
-/P
     <i>Id.</i> t. II, p. 531.
 P/
 
@@ -16055,9 +15896,7 @@ INFANTINA Y EL HIJO DEL REY DE FRANCIA
     Senora, para os guarir,
     Cien doncellas me los guardan,
     Senora, para os servir.
-P/
 
-/P
     Ochoa, <i>Tesoro de los Romanceros</i>, p. 2.
 P/
 
@@ -16116,9 +15955,7 @@ Eis o romance do Piemonte, comparado por Nigra:
     Deu-me a caravella
     Com que ha já sete annos
     Te busco, donzella.
-P/
 
-/P
     Caselli, <i>Cantos populares da Italia</i>, p. 195.
 P/
 
@@ -16161,9 +15998,7 @@ A esta mesma tradição parece ligar-se a bella canção de Camões:
     De aquel nino flero!
     Vea yo a quien quiero
     Y sea marinera.
-P/
 
-/P
     <i>Obras de Camões</i>, (1663 F1:1666, see discussion) p. 341
 P/
 
@@ -16402,9 +16237,7 @@ romance popular parece um tanto crua:
 
     Já vem vindo a noite, é tam só a estrada...
     Senhor pae não digam tal da nossa caza;
-P/
 
-/P
     <i>Que a um Cavalleiro, que pede pousada,
     Se fecha esta porta á noite cerrada.</i>
 P/
@@ -16539,9 +16372,7 @@ fragmento de romance, que em parte fundamenta aquella transformação:
     Si te has de llevantar,
     Que un fraile dejo muerto
     No traigo vino, ni pan.
-P/
 
-/P
     <i>Obras</i>, t. II, p. 139.
 P/
 
@@ -16680,9 +16511,7 @@ João</i>, muito chistoso:
     Qual Pinão ou qual Frei João,
     Não diria quien era la moça,
     Não diria quem, nem quem não.
-P/
 
-/P
     <i>Obras</i> do Gil Vicente, L. IV. fine, t. III, p. 323.
 P/
 
