@@ -1,0 +1,25 @@
+*.larger {
+    font-size: larger;
+}
+
+*.x-larger {
+    font-size: large;
+}
+
+#adv blockquote p {
+    padding-left: 2em;
+    text-indent: -2em;
+}
+
+#halftitlepage div.poetry-container {
+    margin-left: 50%;
+}
+
+footer p {
+    text-align: right;
+}
+
+header > p {
+    text-align: center;
+    text-indent: 0;
+}
