@@ -19143,313 +19143,2147 @@ INDEX
 
 
 /#
-                                Pag.
-
-    <i>Dedicatoria</i>,          V
-
-    <sc>Introducção</sc>,      VII
-
-
-    CANCIONEIRO DAS ILHAS
-
-    ROSAL DE ENAMORADOS
-
-    I.      No terreiro      3
-
-    II.      Declarações e requebros      6
-
-    III.      Flores, amores      18
-
-    IV.      Retrato      24
-
-    V.      Arrufos      34
-
-    VI.      Ciumes,      47
-
-    VII.      Pesares,      51
-
-    VIII.      Ausencias e saudades,      66
-
-    IX.      Moraes e graciosas,      74
-
-    X.      Locaes,      82
-
-    XI.      Politicas,      86
-
-    SERENADAS DO LUAR
-
-    I.      ABC de amores,      87
-          Variante,      90
-
-    II.      Retrato de uma belleza,      97
-          Variantes,                   99-102
-
-    III.      Os mandamentos de amor,      104
-
-    IV.      Mandamentos da egreja,      106
-
-    V.      Os sete sacramentos,      107
-
-    VI.      Os cinco sentidos,      109
-
-    VII.      A confissão da menina,      110
-
-    VIII.      A Tricana,      115
-
-    IX.      Fado do marujo,      116
-
-    X.      Despiques de conversados      119
-
-            —Eu vivendo por vós morro      121
-
-            —Menina dos olhos verdes      124
-
-            —Tenho um papel de cantigas      126
-
-            —D'onde vindes bella dama      126
-
-            —Rosa branca encarnada      130
-
-            —Entre canas e canaes      132
-
-            —Na eschola de Cupido      135
-
-            —D'onde chega este senhor      137
-
-    DOUTRINAL DE ORAÇÕES
-
-    I.      Os Mezes do anno      139
-
-    II.      Anno bom      141
-
-    III.      A Circumcisão      142
-
-    IV.      Os Reis Magos      144
-
-    V.      Folias do Espirito Santo      144
-
-    VI.      Responsos a Santo Antonio      148
-
-    VII.      Santo Antonio livrando o pae da forca      150
-
-    VIII.      Oração a Santa Barbara      154
-
-    IX.      Oração a Santa Catherina      155
-
-    X.      Oração de Santa Apollonia      156
-
-    XI.      Oração contra os cobros      157
-
-    XII.      Oração a Sam Bartholomeu, contra o med,      157
-
-    XIII.      Vinde para mim meu Deos e senhor      158
-
-    XIV.      Oh verbo divino      159
-
-    XV.      Senhora da Conceição      159
-
-    XVI.      Deos te salve Cruz sagrada      160
-
-    XVII.      Oração do Justo Juiz      162
-
-    XVIII.      Oração do Dia de Juizo      163
-
-    XIX.      ABC do Senhor amoroso      164
-
-    XX.      ABC de Nossa Senhora      167
-
-    XXI.      A Confissão      170
-
-    XXII.      As quinze petições      172
-
-    XXIII.      Os mandamentos da lei de Deos      175
-
-    XXIV.      Parlendas e jogos populares      177
-
-      Notas do Cancioneiro      387
-
-    ROMANCEIRO DE ARAVIAS
-
-    ENSELADA DE ROMANCES NOVELLESCOS
-
-    1      Romances da Filha do Rei de França—I      183
-
-    2      O caçador e a donzilla—II      185
-
-    3      Donzella encantada—III      188
-
-    4      Romances de Sylvana—I      191
-
-    5      Aldina—II      193
-
-    6      Sylvana desamparada—III      197
-
-    7      Romance da Noiva desertora      200
-
-    8      Romances de Bernal-Françoilo—I      202
-
-    9      Dom Pedro Françoilo—II      205
-
-    10      Romance do Conde de Allemanha      208
-
-    11      Romances de Dom Varão—I      211
-
-    12      Donzella guerreira—II      215
-
-    13      Romances da Donzella que se fina de amor—I      219
-
-    14      Rosal-florido—II      223
-
-    15      Romances de Dona Helena—I      225
-
-    16      Dona Helena—II      227
-
-    17      Romances de Joãosinho o Banido—I      230
-
-    18      Flores e Ventos—II       232
-
-    19      Dona Branca—III      233
-
-    20      Dom Alberto—IV      236
-
-    21      Flor de Marilia—V      237
-
-    22      Romances de Dom Aleixo—I      239
-
-    23      Dom Aleixo—II      241
-
-    24      Romances de Claralinda—I      243
-
-    25      Dom Carlos de Montealvar—II      246
-
-    26      Romances da Condessa—I      249
-
-    27      Dom Pedro Menino—II      253
-
-    28      Dom Pedro Pequenino—III      257
-
-    29      Romance do Conde Yano      259
-
-    30      Romances de Generaldo—I      265
-
-    31      Girinaldo—II      268
-
-    32      Romances da Filha Maria—I      271
-
-    33      Dom Doardos—II      272
-
-    34      A Ermida no mar—III      274
-
-    35      Romances de Flora      276
-
-
-    36      Romance de Lizarda      282
-
-    PRIMAVERA DE ROMANCES MARITIMOS
-
-    37      Romances da Nau Catherineta—I      285
-
-    38      A Nau Catherineta—II      287
-
-    38      A Nau Catherineta—III      290
-
-    39      A Nau Catherineta—IV      292
-
-    40      A Nau Catherineta—V      295
-
-    41      Romance da Bella Infanta      298
-
-    42      Romance da Flor do Dia      301
-
-    43      Romance de Dona Maria      302
-
-    44      Romances de Dom João da Armada—I      304
-
-    45      Dom João Rei da Armada—II      307
-
-    46      Batalha de Lepanto—III      310
-
-    ROSA DE ROMANCES MOURISCOS
-
-    47      Romance do Mouro atraiçoado      314
-
-    48      Romances de Dom Franco—I      316
-
-    49      Dona Ignez—II      317
-
-    50      Romances de Florbella—I      318
-
-    51      A pobre Viuva—II      320
-
-    52      Romances do Cativo de Argel—I      323
-
-    53      O Cativo de Argel—II      325
-
-    SILVA DE ROMANCES HISTORICOS
-
-    54      Romances da Má-nova—I      328
-
-    55      O Casamento mallogrado—II      330
-
-    56      Romances de Dom Duardos e Flérida—I      331
-
-    57      Dom Duardos—II      333
-
-    58      Romance que se fez de algumas magoas e perdas que
-      causou o tremor de Villa Franca do Campo em 1522
-     (Lição de Gaspar Fructuoso)      335
-
-    59      Romance de Dona Ignez de Castro      345
-
-    CORO DE ROMANCES SACROS
-
-    60      Romance da Noite de Natal      348
-
-    61      Romance de Natal      349
-
-    62      Villancico de Natal      349
-
-    63      Romance dos Tres Reis      350
-
-    64      Romance dos Reis Magos      351
-
-    65      Romance da Fugida para Belem      353
-
-    66      Romance do Presentimento da Paixão      354
-
-    67      Romance da Vespera do Sacrificio      355
-
-    68      Romance da Paixão      356
-
-    69      Romance do Planto da Senhora      358
-
-    70      Romance dos Passos do Senhor      361
-
-    71      Romance de Santa Iria       364
-
-    72      Santo Antonio e a Princeza de Leão      365
-
-    73      Romance do Pobre preso      367
-
-    74      Romance de Santa Thereza       368
-
-    75      Romance de Jesus Peregrino      370
-
-    ENSELADILHA DE ROMANCES ENTRETENIDOS
-
-    76      Xacara do Cego      372
-
-    77      Xacara da Rosa pastorinha      373
-
-    78      Xacaras da Morena—I      375
-
-    79      Frei João—II      379
-
-    80      Xacara da Confissão do Pastor      380
-
-    81      Xacara da Vida da Freira      382
-
-    82      Xacara do Galante      385
-
-          Notas e Paradigmas do Romanceiro      397
+<table class="autotable">
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+Pag.
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+<i>Dedicatoria</i>,
+</td>
+<td class="tdl">
+V
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+<sc>Introducção</sc>,
+</td>
+<td class="tdl">
+VII
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+
+</td>
+<td class="tdl">
+CANCIONEIRO DAS ILHAS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+ROSAL DE ENAMORADOS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+I.
+</td>
+<td class="tdl">
+No terreiro
+</td>
+<td class="tdl">
+3
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+II.
+</td>
+<td class="tdl">
+Declarações e requebros
+</td>
+<td class="tdl">
+6
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+III.
+</td>
+<td class="tdl">
+Flores, amores
+</td>
+<td class="tdl">
+18
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+IV.
+</td>
+<td class="tdl">
+Retrato
+</td>
+<td class="tdl">
+24
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+V.
+</td>
+<td class="tdl">
+Arrufos
+</td>
+<td class="tdl">
+34
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VI.
+</td>
+<td class="tdl">
+Ciumes,
+</td>
+<td class="tdl">
+47
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VII.
+</td>
+<td class="tdl">
+Pesares,
+</td>
+<td class="tdl">
+51
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VIII.
+</td>
+<td class="tdl">
+Ausencias e saudades,
+</td>
+<td class="tdl">
+66
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+IX.
+</td>
+<td class="tdl">
+Moraes e graciosas,
+</td>
+<td class="tdl">
+74
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+X.
+</td>
+<td class="tdl">
+Locaes,
+</td>
+<td class="tdl">
+82
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XI.
+</td>
+<td class="tdl">
+Politicas,
+</td>
+<td class="tdl">
+86
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+SERENADAS DO LUAR
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+
+</td>
+<td class="tdl">
+I.
+Variante,
+</td>
+<td class="tdl">
+ABC de amores,
+90
+</td>
+<td class="tdl">
+87
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+
+</td>
+<td class="tdl">
+II.
+Variantes,
+</td>
+<td class="tdl">
+Retrato de uma belleza,
+99-102
+</td>
+<td class="tdl">
+97
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+III.
+</td>
+<td class="tdl">
+Os mandamentos de amor,
+</td>
+<td class="tdl">
+104
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+IV.
+</td>
+<td class="tdl">
+Mandamentos da egreja,
+</td>
+<td class="tdl">
+106
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+V.
+</td>
+<td class="tdl">
+Os sete sacramentos,
+</td>
+<td class="tdl">
+107
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VI.
+</td>
+<td class="tdl">
+Os cinco sentidos,
+</td>
+<td class="tdl">
+109
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VII.
+</td>
+<td class="tdl">
+A confissão da menina,
+</td>
+<td class="tdl">
+110
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VIII.
+</td>
+<td class="tdl">
+A Tricana,
+</td>
+<td class="tdl">
+115
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+IX.
+</td>
+<td class="tdl">
+Fado do marujo,
+</td>
+<td class="tdl">
+116
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+X.
+</td>
+<td class="tdl">
+Despiques de conversados
+</td>
+<td class="tdl">
+119
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—Eu vivendo por vós morro
+</td>
+<td class="tdl">
+121
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—Menina dos olhos verdes
+</td>
+<td class="tdl">
+124
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—Tenho um papel de cantigas
+</td>
+<td class="tdl">
+126
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—D'onde vindes bella dama
+</td>
+<td class="tdl">
+126
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—Rosa branca encarnada
+</td>
+<td class="tdl">
+130
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—Entre canas e canaes
+</td>
+<td class="tdl">
+132
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—Na eschola de Cupido
+</td>
+<td class="tdl">
+135
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+—D'onde chega este senhor
+</td>
+<td class="tdl">
+137
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+DOUTRINAL DE ORAÇÕES
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+I.
+</td>
+<td class="tdl">
+Os Mezes do anno
+</td>
+<td class="tdl">
+139
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+II.
+</td>
+<td class="tdl">
+Anno bom
+</td>
+<td class="tdl">
+141
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+III.
+</td>
+<td class="tdl">
+A Circumcisão
+</td>
+<td class="tdl">
+142
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+IV.
+</td>
+<td class="tdl">
+Os Reis Magos
+</td>
+<td class="tdl">
+144
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+V.
+</td>
+<td class="tdl">
+Folias do Espirito Santo
+</td>
+<td class="tdl">
+144
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VI.
+</td>
+<td class="tdl">
+Responsos a Santo Antonio
+</td>
+<td class="tdl">
+148
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VII.
+</td>
+<td class="tdl">
+Santo Antonio livrando o pae da forca
+</td>
+<td class="tdl">
+150
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+VIII.
+</td>
+<td class="tdl">
+Oração a Santa Barbara
+</td>
+<td class="tdl">
+154
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+IX.
+</td>
+<td class="tdl">
+Oração a Santa Catherina
+</td>
+<td class="tdl">
+155
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+X.
+</td>
+<td class="tdl">
+Oração de Santa Apollonia
+</td>
+<td class="tdl">
+156
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XI.
+</td>
+<td class="tdl">
+Oração contra os cobros
+</td>
+<td class="tdl">
+157
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XII.
+</td>
+<td class="tdl">
+Oração a Sam Bartholomeu, contra o med,
+</td>
+<td class="tdl">
+157
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XIII.
+</td>
+<td class="tdl">
+Vinde para mim meu Deos e senhor
+</td>
+<td class="tdl">
+158
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XIV.
+</td>
+<td class="tdl">
+Oh verbo divino
+</td>
+<td class="tdl">
+159
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XV.
+</td>
+<td class="tdl">
+Senhora da Conceição
+</td>
+<td class="tdl">
+159
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XVI.
+</td>
+<td class="tdl">
+Deos te salve Cruz sagrada
+</td>
+<td class="tdl">
+160
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XVII.
+</td>
+<td class="tdl">
+Oração do Justo Juiz
+</td>
+<td class="tdl">
+162
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XVIII.
+</td>
+<td class="tdl">
+Oração do Dia de Juizo
+</td>
+<td class="tdl">
+163
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XIX.
+</td>
+<td class="tdl">
+ABC do Senhor amoroso
+</td>
+<td class="tdl">
+164
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XX.
+</td>
+<td class="tdl">
+ABC de Nossa Senhora
+</td>
+<td class="tdl">
+167
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XXI.
+</td>
+<td class="tdl">
+A Confissão
+</td>
+<td class="tdl">
+170
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XXII.
+</td>
+<td class="tdl">
+As quinze petições
+</td>
+<td class="tdl">
+172
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XXIII.
+</td>
+<td class="tdl">
+Os mandamentos da lei de Deos
+</td>
+<td class="tdl">
+175
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+XXIV.
+</td>
+<td class="tdl">
+Parlendas e jogos populares
+</td>
+<td class="tdl">
+177
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+Notas do Cancioneiro
+</td>
+<td class="tdl">
+387
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+ROMANCEIRO DE ARAVIAS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+ENSELADA DE ROMANCES NOVELLESCOS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+1
+</td>
+<td class="tdl">
+Romances da Filha do Rei de França—I
+</td>
+<td class="tdl">
+183
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+2
+</td>
+<td class="tdl">
+O caçador e a donzilla—II
+</td>
+<td class="tdl">
+185
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+3
+</td>
+<td class="tdl">
+Donzella encantada—III
+</td>
+<td class="tdl">
+188
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+4
+</td>
+<td class="tdl">
+Romances de Sylvana—I
+</td>
+<td class="tdl">
+191
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+5
+</td>
+<td class="tdl">
+Aldina—II
+</td>
+<td class="tdl">
+193
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+6
+</td>
+<td class="tdl">
+Sylvana desamparada—III
+</td>
+<td class="tdl">
+197
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+7
+</td>
+<td class="tdl">
+Romance da Noiva desertora
+</td>
+<td class="tdl">
+200
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+8
+</td>
+<td class="tdl">
+Romances de Bernal-Françoilo—I
+</td>
+<td class="tdl">
+202
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+9
+</td>
+<td class="tdl">
+Dom Pedro Françoilo—II
+</td>
+<td class="tdl">
+205
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+10
+</td>
+<td class="tdl">
+Romance do Conde de Allemanha
+</td>
+<td class="tdl">
+208
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+11
+</td>
+<td class="tdl">
+Romances de Dom Varão—I
+</td>
+<td class="tdl">
+211
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+12
+</td>
+<td class="tdl">
+Donzella guerreira—II
+</td>
+<td class="tdl">
+215
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+13
+</td>
+<td class="tdl">
+Romances da Donzella que se fina de amor—I
+</td>
+<td class="tdl">
+219
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+14
+</td>
+<td class="tdl">
+Rosal-florido—II
+</td>
+<td class="tdl">
+223
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+15
+</td>
+<td class="tdl">
+Romances de Dona Helena—I
+</td>
+<td class="tdl">
+225
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+16
+</td>
+<td class="tdl">
+Dona Helena—II
+</td>
+<td class="tdl">
+227
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+17
+</td>
+<td class="tdl">
+Romances de Joãosinho o Banido—I
+</td>
+<td class="tdl">
+230
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+18
+</td>
+<td class="tdl">
+Flores e Ventos—II
+</td>
+<td class="tdl">
+232
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+19
+</td>
+<td class="tdl">
+Dona Branca—III
+</td>
+<td class="tdl">
+233
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+20
+</td>
+<td class="tdl">
+Dom Alberto—IV
+</td>
+<td class="tdl">
+236
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+21
+</td>
+<td class="tdl">
+Flor de Marilia—V
+</td>
+<td class="tdl">
+237
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+22
+</td>
+<td class="tdl">
+Romances de Dom Aleixo—I
+</td>
+<td class="tdl">
+239
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+23
+</td>
+<td class="tdl">
+Dom Aleixo—II
+</td>
+<td class="tdl">
+241
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+24
+</td>
+<td class="tdl">
+Romances de Claralinda—I
+</td>
+<td class="tdl">
+243
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+25
+</td>
+<td class="tdl">
+Dom Carlos de Montealvar—II
+</td>
+<td class="tdl">
+246
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+26
+</td>
+<td class="tdl">
+Romances da Condessa—I
+</td>
+<td class="tdl">
+249
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+27
+</td>
+<td class="tdl">
+Dom Pedro Menino—II
+</td>
+<td class="tdl">
+253
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+28
+</td>
+<td class="tdl">
+Dom Pedro Pequenino—III
+</td>
+<td class="tdl">
+257
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+29
+</td>
+<td class="tdl">
+Romance do Conde Yano
+</td>
+<td class="tdl">
+259
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+30
+</td>
+<td class="tdl">
+Romances de Generaldo—I
+</td>
+<td class="tdl">
+265
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+31
+</td>
+<td class="tdl">
+Girinaldo—II
+</td>
+<td class="tdl">
+268
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+32
+</td>
+<td class="tdl">
+Romances da Filha Maria—I
+</td>
+<td class="tdl">
+271
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+33
+</td>
+<td class="tdl">
+Dom Doardos—II
+</td>
+<td class="tdl">
+272
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+34
+</td>
+<td class="tdl">
+A Ermida no mar—III
+</td>
+<td class="tdl">
+274
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+35
+</td>
+<td class="tdl">
+Romances de Flora
+</td>
+<td class="tdl">
+276
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+
+</td>
+<td class="tdl">
+36
+</td>
+<td class="tdl">
+Romance de Lizarda
+</td>
+<td class="tdl">
+282
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+PRIMAVERA DE ROMANCES MARITIMOS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+37
+</td>
+<td class="tdl">
+Romances da Nau Catherineta—I
+</td>
+<td class="tdl">
+285
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+38
+</td>
+<td class="tdl">
+A Nau Catherineta—II
+</td>
+<td class="tdl">
+287
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+38
+</td>
+<td class="tdl">
+A Nau Catherineta—III
+</td>
+<td class="tdl">
+290
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+39
+</td>
+<td class="tdl">
+A Nau Catherineta—IV
+</td>
+<td class="tdl">
+292
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+40
+</td>
+<td class="tdl">
+A Nau Catherineta—V
+</td>
+<td class="tdl">
+295
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+41
+</td>
+<td class="tdl">
+Romance da Bella Infanta
+</td>
+<td class="tdl">
+298
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+42
+</td>
+<td class="tdl">
+Romance da Flor do Dia
+</td>
+<td class="tdl">
+301
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+43
+</td>
+<td class="tdl">
+Romance de Dona Maria
+</td>
+<td class="tdl">
+302
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+44
+</td>
+<td class="tdl">
+Romances de Dom João da Armada—I
+</td>
+<td class="tdl">
+304
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+45
+</td>
+<td class="tdl">
+Dom João Rei da Armada—II
+</td>
+<td class="tdl">
+307
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+46
+</td>
+<td class="tdl">
+Batalha de Lepanto—III
+</td>
+<td class="tdl">
+310
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+ROSA DE ROMANCES MOURISCOS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+47
+</td>
+<td class="tdl">
+Romance do Mouro atraiçoado
+</td>
+<td class="tdl">
+314
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+48
+</td>
+<td class="tdl">
+Romances de Dom Franco—I
+</td>
+<td class="tdl">
+316
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+49
+</td>
+<td class="tdl">
+Dona Ignez—II
+</td>
+<td class="tdl">
+317
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+50
+</td>
+<td class="tdl">
+Romances de Florbella—I
+</td>
+<td class="tdl">
+318
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+51
+</td>
+<td class="tdl">
+A pobre Viuva—II
+</td>
+<td class="tdl">
+320
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+52
+</td>
+<td class="tdl">
+Romances do Cativo de Argel—I
+</td>
+<td class="tdl">
+323
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+53
+</td>
+<td class="tdl">
+O Cativo de Argel—II
+</td>
+<td class="tdl">
+325
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+SILVA DE ROMANCES HISTORICOS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+54
+</td>
+<td class="tdl">
+Romances da Má-nova—I
+</td>
+<td class="tdl">
+328
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+55
+</td>
+<td class="tdl">
+O Casamento mallogrado—II
+</td>
+<td class="tdl">
+330
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+56
+</td>
+<td class="tdl">
+Romances de Dom Duardos e Flérida—I
+</td>
+<td class="tdl">
+331
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+57
+</td>
+<td class="tdl">
+Dom Duardos—II
+</td>
+<td class="tdl">
+333
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+
+
+</td>
+<td class="tdl">
+58
+causou o tremor de Villa Franca do Campo em 1522
+(Lição de Gaspar Fructuoso)
+</td>
+<td class="tdl">
+Romance que se fez de algumas magoas e perdas que
+335
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+59
+</td>
+<td class="tdl">
+Romance de Dona Ignez de Castro
+</td>
+<td class="tdl">
+345
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+CORO DE ROMANCES SACROS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+60
+</td>
+<td class="tdl">
+Romance da Noite de Natal
+</td>
+<td class="tdl">
+348
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+61
+</td>
+<td class="tdl">
+Romance de Natal
+</td>
+<td class="tdl">
+349
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+62
+</td>
+<td class="tdl">
+Villancico de Natal
+</td>
+<td class="tdl">
+349
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+63
+</td>
+<td class="tdl">
+Romance dos Tres Reis
+</td>
+<td class="tdl">
+350
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+64
+</td>
+<td class="tdl">
+Romance dos Reis Magos
+</td>
+<td class="tdl">
+351
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+65
+</td>
+<td class="tdl">
+Romance da Fugida para Belem
+</td>
+<td class="tdl">
+353
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+66
+</td>
+<td class="tdl">
+Romance do Presentimento da Paixão
+</td>
+<td class="tdl">
+354
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+67
+</td>
+<td class="tdl">
+Romance da Vespera do Sacrificio
+</td>
+<td class="tdl">
+355
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+68
+</td>
+<td class="tdl">
+Romance da Paixão
+</td>
+<td class="tdl">
+356
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+69
+</td>
+<td class="tdl">
+Romance do Planto da Senhora
+</td>
+<td class="tdl">
+358
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+70
+</td>
+<td class="tdl">
+Romance dos Passos do Senhor
+</td>
+<td class="tdl">
+361
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+71
+</td>
+<td class="tdl">
+Romance de Santa Iria
+</td>
+<td class="tdl">
+364
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+72
+</td>
+<td class="tdl">
+Santo Antonio e a Princeza de Leão
+</td>
+<td class="tdl">
+365
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+73
+</td>
+<td class="tdl">
+Romance do Pobre preso
+</td>
+<td class="tdl">
+367
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+74
+</td>
+<td class="tdl">
+Romance de Santa Thereza
+</td>
+<td class="tdl">
+368
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+75
+</td>
+<td class="tdl">
+Romance de Jesus Peregrino
+</td>
+<td class="tdl">
+370
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+ENSELADILHA DE ROMANCES ENTRETENIDOS
+</td>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+76
+</td>
+<td class="tdl">
+Xacara do Cego
+</td>
+<td class="tdl">
+372
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+77
+</td>
+<td class="tdl">
+Xacara da Rosa pastorinha
+</td>
+<td class="tdl">
+373
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+78
+</td>
+<td class="tdl">
+Xacaras da Morena—I
+</td>
+<td class="tdl">
+375
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+79
+</td>
+<td class="tdl">
+Frei João—II
+</td>
+<td class="tdl">
+379
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+80
+</td>
+<td class="tdl">
+Xacara da Confissão do Pastor
+</td>
+<td class="tdl">
+380
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+81
+</td>
+<td class="tdl">
+Xacara da Vida da Freira
+</td>
+<td class="tdl">
+382
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+82
+</td>
+<td class="tdl">
+Xacara do Galante
+</td>
+<td class="tdl">
+385
+</td>
+</tr>
+<tr>
+<td class="tdl">
+
+</td>
+<td class="tdl">
+Notas e Paradigmas do Romanceiro
+</td>
+<td class="tdl">
+397
+</td>
+<td class="tdl">
+
+</td>
+</tr>
+</table>
 #/
