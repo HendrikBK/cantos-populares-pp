@@ -22,4 +22,12 @@ footer p {
 header > p {
     text-align: center;
     text-indent: 0;
+    text-transform: uppercase;
+}
+
+#romances-novellescos header h4 + p,
+#romances-historicos header h4 + p {
+    font-weight: bold;
+    text-indent: 0;
+    text-transform: none;
 }
